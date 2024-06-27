@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Irfan Husain Student for Computer science Engineering. Pursuing My Bachelor's of Engineering at KLS GOGTE INSTITUTE OF TECHNOLOGY 
 - 👀 I’m interested in Software Development and Data Analytics 
 - 🌱 I’m currently learning Machine Learning and Web Development
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
